@@ -1,0 +1,9 @@
+lat,long,accuracy,formatted_address,address_type,status,index
+51.209348,3.2246995,locality,"Bruges, Belgium","locality,political",OK,1
+51.7355868,0.4685497,locality,"Chelmsford, UK","locality,political",OK,2
+43.7695604,11.2558136,locality,"Florence, Metropolitan City of Florence, Italy","locality,political",OK,3
+22.396428,114.109497,country,Hong Kong,"country,political",OK,4
+19.0759837,72.8776559,locality,"Mumbai, Maharashtra, India","locality,political",OK,5
+37.3890924,-5.9844589,locality,"Seville, Spain","locality,political",OK,6
+43.653226,-79.3831843,locality,"Toronto, ON, Canada","locality,political",OK,7
+52.2296756,21.0122287,locality,"Warsaw, Poland","locality,political",OK,8
