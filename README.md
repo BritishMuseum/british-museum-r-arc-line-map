@@ -1,6 +1,6 @@
 # Arc Lines on World, Europe or UK map
 
-![](https://img.shields.io/badge/code-R-blue.svg) ![](https://img.shields.io/badge/license-GNU-brightgreen.svg) 
+![](https://img.shields.io/badge/code-R-blue.svg) ![](https://img.shields.io/badge/license-GNU-brightgreen.svg) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1053810.svg)](https://doi.org/10.5281/zenodo.1053810)
 
 #### Objective : Make a map with arcs from a central point using auto-collecting latitude and longitude of locations OR just plot arc line path plotted on 2D map
 
