@@ -10,7 +10,7 @@
 **Prerequisites : *Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.***
 
 ## Navigation
- :open_file_folder: [code](https://github.com/BritishMuseum/british-museum-r-arc-line-map/tree/master/code)
+ :open_file_folder: [code](https://github.com/BritishMuseum/british-museum-r-arc-line-map/tree/master/src)
 
  :triangular_ruler: [outputs](https://github.com/BritishMuseum/british-museum-r-arc-line-map/tree/master/outputs)
  
